@@ -1,0 +1,7 @@
+name = input('Informe seu nome completo: ')
+age = input('Informe sua idade: ')
+day = input('Informe seu dia de nascimento: ')
+month = input('Mês: ')
+year = input('Ano: ')
+print('Olá! ', name, '\nVocê tem: ' , age, ' anos de idade')
+print('E nasceu no dia: ', day, '/ ', month, '/ ', year) 
