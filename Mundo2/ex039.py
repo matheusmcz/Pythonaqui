@@ -1,4 +1,5 @@
 import datetime
+
 idade = int(input('Informe seu ano de nascimento: '))
 periodoalismento = datetime.date.today().year - idade
 if periodoalismento < 18:
