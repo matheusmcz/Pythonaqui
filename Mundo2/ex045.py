@@ -1,7 +1,7 @@
 from random import randint
 opcoes = ('pedra', 'papel', 'tesoura')
 maquina = randint(0, 2)
-print('{:-^40}'.format(' PEDRA, PAPEL, TESOURA!!! '))
+print('{:-^40}'.format(''' PEDRA, PAPEL, TESOURA!!! '''))
 
 print('''ESCOLHA:
 [ 0 ] PEDRA
